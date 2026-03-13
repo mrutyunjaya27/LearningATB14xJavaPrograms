@@ -11,6 +11,7 @@ public class Lab006_Comments_Multi {
 		 * System.out.println("Hello"); */
 
 	}
+	
 //	System.out.println("Hello");
 }
 

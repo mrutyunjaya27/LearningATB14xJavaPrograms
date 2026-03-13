@@ -10,6 +10,7 @@ public class Lab008_Common_Math {
 		System.out.println("2+2"); //String - it will print as it is 
 		System.out.println(3/2); //println - Integer part - No decimal
 		
+		
 	}
 
 }

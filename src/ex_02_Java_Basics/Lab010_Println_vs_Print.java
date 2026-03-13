@@ -10,5 +10,6 @@ public class Lab010_Println_vs_Print {
 		System.out.print("Hi "); //Space
 		System.out.print("Bye");
 	}
+	
 
 }

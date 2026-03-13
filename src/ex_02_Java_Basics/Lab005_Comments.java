@@ -11,6 +11,7 @@ public class Lab005_Comments {
 		// This is a comments
 		// This is a comments
 		// This is a comments
+		
 	}
 
 }
