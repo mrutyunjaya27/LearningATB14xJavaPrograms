@@ -16,7 +16,7 @@ int b=20;
  */
    System.out.printf("Value of a = %d",a);
    System.out.println();
-   System.out.printf("Value of b = %d",b);
+   System.out.printf("Value of b  = %d",b);
    
    //%d -> int, byte, long, short, -data type
    //%s -> String
